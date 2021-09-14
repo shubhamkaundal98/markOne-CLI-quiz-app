@@ -1,5 +1,5 @@
-# markOne CLI quiz app
- "Do you know me?"
+# "Do you know me?"
+
 A CLI based app created using JavaScript & used Replit for hosting.
 
 Chalk is used for styling.
